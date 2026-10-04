@@ -1,8 +1,6 @@
 # Hi, I'm Birkir 👋
 
 Data specialist based in Iceland with 20+ years in market research and data analysis.
-I currently work at [Maskína](https://maskina.is), turning survey data into insight
-for clients through statistical processing and dashboards.
 
 ### What I work with
 - **Daily:** Tableau · SPSS · Excel/VBA 
