@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Birkir 👋
 
-<!--
-**birkirgr/birkirgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data specialist based in Iceland with 20+ years in market research and data analysis.
+I currently work at [Maskína](https://maskina.is), turning survey data into insight
+for clients through statistical processing and dashboards.
 
-Here are some ideas to get you started:
+### What I work with
+- **Daily:** Tableau · SPSS · Excel/VBA 
+- **Growing:** Python · Supabase/Postgres · SQL · Power BI · GitHub Actions · Cloudflare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+MSc in Business Administration from Copenhagen Business School.
+Lived in Denmark for 15 years · speaks Icelandic, Danish and English.
